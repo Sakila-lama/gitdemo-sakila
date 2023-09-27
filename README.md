@@ -1,4 +1,4 @@
 # gitdemo-sakila
 demo
 <br>
-Author-Sakila lama
+Author-Sakila (programming student)
